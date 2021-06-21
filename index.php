@@ -1,1 +1,2 @@
-<?php header(   'location: /index.hmtl'    );  ?>
+<?php   
+    require_once("index.html");
